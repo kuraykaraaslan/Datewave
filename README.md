@@ -16,3 +16,6 @@ DateWave is a Tinder clone designed to help people connect, chat, and potentiall
 - **Discovery Settings:** Customize your preferences for age, distance, and gender.
 - **Push Notifications:** Get notified about new matches, messages, and more.
 
+## Screenshots
+
+<img src="/static/logo.png" alt="drawing" width="200"/>
