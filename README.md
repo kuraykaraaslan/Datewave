@@ -1,6 +1,6 @@
 # DateWave: React Native Tinder Clone
 
-![DateWave Logo](static/logo.png)
+![DateWave Logo](static/logo.jpg)
 
 Welcome to **DateWave** - Your Ultimate React Native Dating App!
 
@@ -18,4 +18,4 @@ DateWave is a Tinder clone designed to help people connect, chat, and potentiall
 
 ## Screenshots
 
-<img src="/static/logo.png" alt="drawing" width="200"/>
+<img src="/static/logo.jpg" alt="drawing" width="200"/>
