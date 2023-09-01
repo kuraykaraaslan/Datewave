@@ -18,4 +18,12 @@ DateWave is a Tinder clone designed to help people connect, chat, and potentiall
 
 ## Screenshots
 
-<img src="/static/logo.jpg" alt="drawing" width="200"/>
+<img src="/static/screenshot_1.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_2.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_3.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_4.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_5.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_6.png" alt="drawing" width="300"/>
+<img src="/static/screenshot_7.png" alt="drawing" width="300"/>
+
+
